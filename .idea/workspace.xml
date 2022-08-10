@@ -8,12 +8,9 @@
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ManagerTickets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Tickets.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/TicketsRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ManagerTicketsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +29,9 @@
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2CkX0wIHw0DvmqeH18kBz0MgmSQ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -59,6 +59,16 @@
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="ManagerTicketsTest" />
       <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManagerTicketsTest.shouldAllTicketsSort" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaQA_15" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ManagerTicketsTest" />
+      <option name="METHOD_NAME" value="shouldAllTicketsSort" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -93,23 +103,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ManagerTicketsTest.shouldSearchTicketArrival" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="JavaQA_15" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ManagerTicketsTest" />
-      <option name="METHOD_NAME" value="shouldSearchTicketArrival" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.ManagerTicketsTest" />
+        <item itemvalue="JUnit.ManagerTicketsTest.shouldAllTicketsSort" />
         <item itemvalue="JUnit.ManagerTicketsTest.shouldAllTicketsSortRemoveById" />
         <item itemvalue="JUnit.ManagerTicketsTest.shouldAllTicketsSortFindAll2" />
         <item itemvalue="JUnit.ManagerTicketsTest.shouldAllTicketsSortFindAll" />
-        <item itemvalue="JUnit.ManagerTicketsTest.shouldSearchTicketArrival" />
       </list>
     </recent_temporary>
   </component>

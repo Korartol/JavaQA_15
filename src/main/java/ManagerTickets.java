@@ -1,3 +1,5 @@
+import java.util.Arrays;
+
 public class ManagerTickets {
     private TicketsRepository repo;
 
@@ -45,6 +47,7 @@ public class ManagerTickets {
                 result = tmp;
             }
         }
+        Arrays.sort(result);
         return result;
     }
 
